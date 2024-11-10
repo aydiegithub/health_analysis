@@ -1,0 +1,1001 @@
+index,Patient_Name,Age,Weight_kg,Height_cm,Blood_Pressure_mmHg,Disease
+0,Ramesh Patel,10.0,29.0,93.0,102.0,Kidney Disease
+1,Sunita Pandey,12.0,21.0,103.0,152.0,Hypertension
+2,Santosh Kulkarni,11.0,19.0,112.0,154.0,Thyroid Disorder
+3,Swati Verma,32.0,80.0,152.0,95.0,Tuberculosis
+4,Sudha Pandey,30.0,57.0,177.0,95.0,Hypertension
+5,Arun Iyer,88.0,70.0,141.0,99.0,Kidney Disease
+6,Suman Mehta,51.0,72.0,158.0,155.0,Cardiovascular Disease
+7,Kiran Desai,45.0,71.0,150.0,109.0,Malaria
+8,Santosh Yadav,7.0,44.0,126.0,105.0,Liver Disease
+9,Kavita Banerjee,42.0,85.0,154.0,153.0,Cardiovascular Disease
+10,Vikas Mehta,12.0,30.0,133.0,106.0,Hypertension
+11,Kavita Malhotra,59.0,85.0,167.0,159.0,Tuberculosis
+12,Anjali Rao,54.0,84.0,170.0,103.0,Liver Disease
+13,Ravi Yadav,4.0,32.0,110.0,113.0,Diabetes
+14,Indira Nath,40.0,73.0,174.0,123.0,Malaria
+15,Shankar Gupta,30.0,80.0,163.0,116.0,Hypertension
+16,Vijay Menon,46.0,77.0,162.0,91.0,Asthma
+17,Ajay Chopra,23.0,74.0,177.0,136.0,Hypertension
+18,Indira Reddy,33.0,65.0,178.0,145.0,Thyroid Disorder
+19,Rakesh Mishra,77.0,73.0,148.0,147.0,Malaria
+20,Indira Menon,25.0,55.0,173.0,148.0,Dengue
+21,Indira Gupta,56.0,76.0,175.0,99.0,Malaria
+22,Pooja Das,40.0,83.0,150.0,94.0,Diabetes
+23,Arun Desai,84.0,74.0,169.0,126.0,Respiratory Infection
+24,Sudha Kumar,64.0,71.0,142.0,106.0,Tuberculosis
+25,Meena Chatterjee,58.0,75.0,158.0,127.0,Hypertension
+26,Ravi Kumar,89.0,64.0,157.0,101.0,Asthma
+27,Rajesh Gupta,18.0,42.0,148.0,96.0,Dengue
+28,Rajesh Mehta,11.0,40.0,130.0,120.0,Diabetes
+29,Anjali Reddy,49.0,73.0,170.0,111.0,Kidney Disease
+30,Sanjay Gupta,24.0,77.0,175.0,122.0,Diabetes
+31,Vikas Malhotra,63.0,51.0,160.0,116.0,Cardiovascular Disease
+32,Alok Rana,32.0,72.0,160.0,104.0,Tuberculosis
+33,Anjali Patel,85.0,71.0,140.0,142.0,Tuberculosis
+34,Rakesh Kohli,48.0,85.0,162.0,104.0,Malaria
+35,Arun Desai,78.0,48.0,152.0,99.0,Kidney Disease
+36,Anita Chatterjee,79.0,54.0,168.0,104.0,Cardiovascular Disease
+37,Deepak Aggarwal,45.0,75.0,180.0,113.0,Asthma
+38,Nisha Patel,31.0,60.0,175.0,153.0,Liver Disease
+39,Alok Bose,10.0,36.0,127.0,147.0,Liver Disease
+40,Ajay Bose,21.0,75.0,158.0,130.0,Respiratory Infection
+41,Seema Menon,42.0,66.0,151.0,135.0,Tuberculosis
+42,Rakesh Das,75.0,61.0,141.0,157.0,Malaria
+43,Santosh Desai,60.0,75.0,162.0,115.0,Malaria
+44,Suman Kulkarni,35.0,84.0,156.0,110.0,Kidney Disease
+45,Abhinav Saxena,45.0,54.0,159.0,150.0,Malaria
+46,Ravi Verma,41.0,85.0,179.0,113.0,Diabetes
+47,Ramesh Bose,31.0,76.0,165.0,151.0,Diabetes
+48,Swati Patel,53.0,54.0,175.0,107.0,Asthma
+49,Amit Rana,80.0,66.0,142.0,92.0,Dengue
+50,Preeti Iyer,25.0,63.0,156.0,92.0,Cardiovascular Disease
+51,Sandeep Verma,1.0,19.0,135.0,101.0,Tuberculosis
+52,Arun Nath,61.0,64.0,145.0,143.0,Diabetes
+53,Ajay Rana,23.0,84.0,173.0,150.0,Liver Disease
+54,Ramesh Rao,84.0,48.0,154.0,103.0,Thyroid Disorder
+55,Rajesh Gupta,17.0,46.0,144.0,120.0,Anemia
+56,Neha Malhotra,20.0,84.0,164.0,95.0,Liver Disease
+57,Preeti Pandey,59.0,82.0,158.0,121.0,Malaria
+58,Ajay Nair,57.0,51.0,172.0,134.0,Diabetes
+59,Pooja Rao,49.0,70.0,155.0,137.0,Dengue
+60,Sunita Mishra,71.0,61.0,145.0,101.0,Thyroid Disorder
+61,Kiran Rao,18.0,46.0,164.0,99.0,Respiratory Infection
+62,Santosh Sharma,12.0,16.0,102.0,124.0,Asthma
+63,Preeti Yadav,65.0,49.0,156.0,122.0,Liver Disease
+64,Amit Chatterjee,15.0,59.0,168.0,127.0,Anemia
+65,Alok Das,12.0,21.0,119.0,94.0,Dengue
+66,Swati Sharma,34.0,56.0,165.0,107.0,Asthma
+67,Nisha Reddy,15.0,49.0,149.0,155.0,Respiratory Infection
+68,Sunita Desai,73.0,71.0,163.0,152.0,Asthma
+69,Kiran Aggarwal,34.0,80.0,176.0,146.0,Thyroid Disorder
+70,Lakshmi Iyer,84.0,75.0,155.0,122.0,Liver Disease
+71,Pooja Kumar,37.0,83.0,161.0,139.0,Hypertension
+72,Santosh Verma,6.0,20.0,139.0,93.0,Respiratory Infection
+73,Rajesh Mishra,84.0,45.0,170.0,92.0,Malaria
+74,Alok Chopra,8.0,38.0,100.0,100.0,Malaria
+75,Sudha Mehta,28.0,80.0,152.0,102.0,Cardiovascular Disease
+76,Ramesh Mehta,67.0,65.0,170.0,150.0,Asthma
+77,Ajay Rao,50.0,64.0,155.0,141.0,Liver Disease
+78,Pooja Mishra,63.0,71.0,142.0,103.0,Respiratory Infection
+79,Kavita Nath,5.0,17.0,123.0,106.0,Malaria
+80,Amit Rao,6.0,34.0,97.0,157.0,Cardiovascular Disease
+81,Manoj Kohli,83.0,58.0,147.0,97.0,Diabetes
+82,Vikas Kulkarni,72.0,56.0,167.0,102.0,Diabetes
+83,Swati Nair,23.0,60.0,164.0,152.0,Asthma
+84,Pooja Yadav,77.0,64.0,164.0,101.0,Kidney Disease
+85,Sudha Sharma,54.0,78.0,165.0,110.0,Malaria
+86,Lakshmi Nair,2.0,39.0,107.0,156.0,Asthma
+87,Rajesh Verma,10.0,40.0,111.0,127.0,Respiratory Infection
+88,Swati Chopra,83.0,57.0,168.0,134.0,Malaria
+89,Suman Sharma,34.0,64.0,155.0,146.0,Dengue
+90,Indira Kulkarni,61.0,45.0,145.0,98.0,Hypertension
+91,Vikas Reddy,31.0,51.0,160.0,96.0,Dengue
+92,Naveen Aggarwal,85.0,61.0,154.0,108.0,Kidney Disease
+93,Sanjay Gupta,83.0,60.0,163.0,99.0,Liver Disease
+94,Seema Menon,76.0,59.0,150.0,93.0,Anemia
+95,Bhavana Kumar,12.0,28.0,132.0,151.0,Thyroid Disorder
+96,Manoj Prasad,22.0,61.0,151.0,124.0,Kidney Disease
+97,Meena Aggarwal,53.0,69.0,161.0,137.0,Diabetes
+98,Meena Bose,74.0,58.0,159.0,133.0,Hypertension
+99,Nisha Chatterjee,26.0,63.0,151.0,155.0,Tuberculosis
+100,Priya Malhotra,8.0,39.0,112.0,150.0,Liver Disease
+101,Lakshmi Sharma,23.0,68.0,167.0,99.0,Dengue
+102,Pooja Patel,71.0,73.0,169.0,122.0,Cardiovascular Disease
+103,Priya Chatterjee,2.0,28.0,108.0,128.0,Asthma
+104,Anita Bose,64.0,74.0,166.0,121.0,Malaria
+105,Geeta Patel,6.0,25.0,111.0,107.0,Dengue
+106,Rohit Mishra,39.0,73.0,180.0,130.0,Anemia
+107,Abhinav Desai,40.0,55.0,175.0,107.0,Hypertension
+108,Rajesh Patel,65.0,68.0,168.0,145.0,Respiratory Infection
+109,Kiran Singh,57.0,53.0,172.0,105.0,Hypertension
+110,Nisha Nair,84.0,65.0,159.0,130.0,Liver Disease
+111,Sandeep Bose,45.0,59.0,168.0,139.0,Malaria
+112,Indira Bose,56.0,78.0,173.0,106.0,Thyroid Disorder
+113,Seema Patel,86.0,63.0,144.0,156.0,Thyroid Disorder
+114,Seema Prasad,39.0,77.0,166.0,90.0,Cardiovascular Disease
+115,Sunita Gupta,81.0,62.0,159.0,90.0,Hypertension
+116,Neha Kulkarni,9.0,34.0,138.0,152.0,Kidney Disease
+117,Ravi Verma,70.0,63.0,165.0,160.0,Kidney Disease
+118,Abhinav Gupta,28.0,53.0,171.0,140.0,Respiratory Infection
+119,Manoj Gupta,49.0,56.0,171.0,122.0,Diabetes
+120,Shankar Mehta,22.0,56.0,173.0,93.0,Hypertension
+121,Priya Chopra,4.0,20.0,130.0,137.0,Asthma
+122,Abhinav Bose,50.0,81.0,171.0,138.0,Malaria
+123,Ramesh Kulkarni,57.0,70.0,159.0,157.0,Malaria
+124,Suman Mishra,20.0,62.0,150.0,122.0,Cardiovascular Disease
+125,Kiran Bose,9.0,33.0,126.0,134.0,Kidney Disease
+126,Vijay Joshi,48.0,80.0,167.0,112.0,Kidney Disease
+127,Deepak Pandey,89.0,68.0,161.0,93.0,Asthma
+128,Arun Aggarwal,56.0,69.0,160.0,97.0,Diabetes
+129,Rajesh Verma,63.0,52.0,167.0,140.0,Kidney Disease
+130,Ajay Saxena,5.0,16.0,113.0,119.0,Malaria
+131,Kiran Saxena,15.0,57.0,161.0,119.0,Tuberculosis
+132,Geeta Gupta,76.0,68.0,149.0,107.0,Liver Disease
+133,Indira Chatterjee,40.0,74.0,165.0,115.0,Malaria
+134,Deepak Kohli,31.0,62.0,157.0,118.0,Cardiovascular Disease
+135,Lakshmi Banerjee,43.0,70.0,178.0,149.0,Malaria
+136,Naveen Rao,77.0,76.0,146.0,140.0,Thyroid Disorder
+137,Santosh Das,35.0,74.0,172.0,123.0,Anemia
+138,Abhinav Iyer,85.0,68.0,152.0,113.0,Cardiovascular Disease
+139,Geeta Saxena,33.0,74.0,162.0,139.0,Anemia
+140,Preeti Verma,50.0,72.0,152.0,151.0,Hypertension
+141,Sanjay Iyer,56.0,68.0,178.0,115.0,Thyroid Disorder
+142,Anjali Nair,9.0,42.0,91.0,146.0,Cardiovascular Disease
+143,Shankar Reddy,48.0,81.0,156.0,137.0,Tuberculosis
+144,Vikas Chopra,35.0,54.0,178.0,120.0,Thyroid Disorder
+145,Bhavana Prasad,62.0,79.0,150.0,141.0,Respiratory Infection
+146,Meena Pandey,15.0,60.0,162.0,139.0,Respiratory Infection
+147,Lakshmi Aggarwal,28.0,62.0,162.0,148.0,Asthma
+148,Preeti Desai,25.0,57.0,164.0,90.0,Liver Disease
+149,Arjun Malhotra,72.0,54.0,147.0,123.0,Cardiovascular Disease
+150,Sanjay Patel,47.0,70.0,151.0,125.0,Anemia
+151,Anjali Banerjee,45.0,78.0,180.0,150.0,Liver Disease
+152,Swati Bose,19.0,62.0,168.0,135.0,Cardiovascular Disease
+153,Arun Singh,24.0,73.0,179.0,143.0,Cardiovascular Disease
+154,Arjun Singh,57.0,74.0,170.0,160.0,Hypertension
+155,Seema Patel,73.0,61.0,160.0,150.0,Malaria
+156,Suman Bose,70.0,50.0,149.0,98.0,Hypertension
+157,Kiran Kohli,43.0,78.0,155.0,111.0,Diabetes
+158,Deepak Banerjee,75.0,53.0,161.0,139.0,Tuberculosis
+159,Vijay Desai,57.0,50.0,176.0,154.0,Cardiovascular Disease
+160,Sudha Joshi,64.0,74.0,152.0,97.0,Asthma
+161,Santosh Chatterjee,9.0,28.0,113.0,93.0,Dengue
+162,Alok Iyer,44.0,63.0,152.0,121.0,Liver Disease
+163,Arun Menon,76.0,56.0,162.0,146.0,Tuberculosis
+164,Lakshmi Iyer,65.0,54.0,153.0,113.0,Malaria
+165,Priya Rao,61.0,72.0,142.0,100.0,Cardiovascular Disease
+166,Rajesh Desai,36.0,55.0,152.0,101.0,Anemia
+167,Amit Prasad,64.0,61.0,165.0,154.0,Respiratory Infection
+168,Preeti Pandey,10.0,41.0,121.0,157.0,Kidney Disease
+169,Vikas Mehta,66.0,61.0,145.0,129.0,Dengue
+170,Abhinav Verma,52.0,83.0,180.0,127.0,Asthma
+171,Suman Mishra,70.0,62.0,163.0,95.0,Liver Disease
+172,Abhinav Rana,56.0,80.0,151.0,135.0,Asthma
+173,Swati Verma,65.0,63.0,157.0,102.0,Dengue
+174,Sanjay Desai,30.0,73.0,162.0,158.0,Cardiovascular Disease
+175,Lakshmi Joshi,29.0,52.0,170.0,98.0,Hypertension
+176,Neha Rana,80.0,55.0,159.0,155.0,Liver Disease
+177,Sunita Pillai,69.0,73.0,162.0,151.0,Diabetes
+178,Sandeep Das,21.0,54.0,155.0,109.0,Liver Disease
+179,Pooja Reddy,54.0,59.0,176.0,123.0,Kidney Disease
+180,Kiran Bose,85.0,45.0,164.0,126.0,Liver Disease
+181,Naveen Gupta,54.0,84.0,169.0,131.0,Anemia
+182,Lakshmi Banerjee,63.0,78.0,148.0,127.0,Diabetes
+183,Naveen Sharma,44.0,70.0,178.0,133.0,Hypertension
+184,Deepak Banerjee,67.0,76.0,168.0,109.0,Tuberculosis
+185,Swati Gupta,35.0,77.0,158.0,124.0,Thyroid Disorder
+186,Seema Menon,81.0,66.0,168.0,99.0,Thyroid Disorder
+187,Ajay Mehta,24.0,83.0,169.0,116.0,Respiratory Infection
+188,Preeti Menon,36.0,62.0,176.0,126.0,Diabetes
+189,Ajay Malhotra,16.0,63.0,138.0,93.0,Respiratory Infection
+190,Ajay Prasad,73.0,48.0,164.0,124.0,Liver Disease
+191,Sunita Reddy,77.0,51.0,140.0,123.0,Dengue
+192,Suman Verma,69.0,80.0,157.0,137.0,Liver Disease
+193,Sanjay Saxena,63.0,76.0,147.0,91.0,Dengue
+194,Arjun Desai,60.0,71.0,160.0,142.0,Respiratory Infection
+195,Indira Pillai,34.0,70.0,159.0,110.0,Malaria
+196,Arun Menon,61.0,65.0,143.0,112.0,Thyroid Disorder
+197,Amit Iyer,24.0,53.0,170.0,110.0,Liver Disease
+198,Anita Joshi,42.0,55.0,171.0,122.0,Tuberculosis
+199,Kiran Malhotra,16.0,55.0,165.0,126.0,Respiratory Infection
+200,Kiran Singh,72.0,79.0,144.0,150.0,Tuberculosis
+201,Santosh Saxena,56.0,73.0,156.0,101.0,Kidney Disease
+202,Swati Mishra,60.0,74.0,163.0,106.0,Diabetes
+203,Pooja Pandey,90.0,50.0,141.0,156.0,Anemia
+204,Seema Chopra,58.0,81.0,165.0,155.0,Anemia
+205,Lakshmi Mishra,61.0,73.0,150.0,106.0,Asthma
+206,Manoj Verma,22.0,77.0,152.0,92.0,Tuberculosis
+207,Swati Gupta,59.0,62.0,180.0,112.0,Diabetes
+208,Alok Verma,43.0,80.0,151.0,145.0,Malaria
+209,Rakesh Nair,3.0,24.0,118.0,126.0,Malaria
+210,Amit Pillai,26.0,51.0,156.0,138.0,Hypertension
+211,Ravi Chatterjee,56.0,54.0,153.0,101.0,Asthma
+212,Rakesh Desai,38.0,75.0,163.0,127.0,Cardiovascular Disease
+213,Amit Reddy,4.0,20.0,95.0,120.0,Thyroid Disorder
+214,Lakshmi Banerjee,23.0,70.0,157.0,101.0,Hypertension
+215,Shankar Prasad,29.0,81.0,170.0,150.0,Hypertension
+216,Santosh Pillai,20.0,73.0,152.0,131.0,Kidney Disease
+217,Ramesh Chopra,90.0,58.0,158.0,158.0,Anemia
+218,Alok Mehta,68.0,65.0,147.0,155.0,Respiratory Infection
+219,Shankar Chopra,64.0,71.0,169.0,157.0,Anemia
+220,Lakshmi Prasad,14.0,39.0,140.0,129.0,Respiratory Infection
+221,Alok Chopra,17.0,44.0,156.0,110.0,Liver Disease
+222,Anita Bose,82.0,65.0,148.0,156.0,Thyroid Disorder
+223,Ramesh Kumar,44.0,81.0,151.0,116.0,Anemia
+224,Indira Pillai,63.0,60.0,145.0,124.0,Thyroid Disorder
+225,Naveen Pillai,25.0,83.0,169.0,104.0,Tuberculosis
+226,Swati Yadav,1.0,28.0,120.0,99.0,Asthma
+227,Pooja Yadav,52.0,85.0,168.0,105.0,Hypertension
+228,Priya Pandey,21.0,80.0,157.0,97.0,Asthma
+229,Amit Desai,14.0,63.0,157.0,102.0,Anemia
+230,Deepak Reddy,71.0,56.0,160.0,102.0,Thyroid Disorder
+231,Priya Rao,84.0,46.0,169.0,119.0,Respiratory Infection
+232,Manoj Yadav,59.0,72.0,179.0,106.0,Respiratory Infection
+233,Suman Pillai,17.0,56.0,155.0,153.0,Malaria
+234,Naveen Iyer,39.0,74.0,170.0,111.0,Hypertension
+235,Indira Menon,66.0,66.0,156.0,129.0,Hypertension
+236,Rohit Patel,73.0,65.0,152.0,107.0,Liver Disease
+237,Arun Kulkarni,57.0,78.0,175.0,113.0,Anemia
+238,Pooja Gupta,37.0,78.0,163.0,123.0,Tuberculosis
+239,Sunita Mishra,29.0,83.0,155.0,128.0,Dengue
+240,Vikas Aggarwal,17.0,50.0,165.0,154.0,Respiratory Infection
+241,Priya Bose,90.0,48.0,160.0,114.0,Anemia
+242,Seema Mehta,40.0,68.0,156.0,140.0,Tuberculosis
+243,Nisha Singh,58.0,77.0,167.0,140.0,Liver Disease
+244,Pooja Chatterjee,13.0,61.0,137.0,98.0,Kidney Disease
+245,Rohit Kohli,80.0,48.0,160.0,137.0,Thyroid Disorder
+246,Anjali Kohli,38.0,80.0,174.0,131.0,Tuberculosis
+247,Naveen Chatterjee,45.0,84.0,163.0,151.0,Liver Disease
+248,Suman Chatterjee,40.0,63.0,169.0,117.0,Malaria
+249,Alok Chopra,82.0,76.0,147.0,152.0,Respiratory Infection
+250,Ravi Mehta,18.0,48.0,135.0,144.0,Dengue
+251,Bhavana Malhotra,44.0,72.0,150.0,131.0,Thyroid Disorder
+252,Sandeep Kumar,27.0,83.0,166.0,117.0,Cardiovascular Disease
+253,Kiran Nath,8.0,32.0,133.0,111.0,Hypertension
+254,Suman Nath,11.0,28.0,119.0,93.0,Asthma
+255,Rakesh Saxena,69.0,80.0,167.0,98.0,Thyroid Disorder
+256,Arjun Reddy,17.0,51.0,149.0,158.0,Anemia
+257,Rajesh Das,6.0,26.0,120.0,132.0,Asthma
+258,Geeta Malhotra,81.0,72.0,153.0,99.0,Dengue
+259,Manoj Pandey,87.0,57.0,169.0,142.0,Asthma
+260,Ramesh Bose,29.0,81.0,180.0,127.0,Respiratory Infection
+261,Vijay Kohli,62.0,49.0,159.0,135.0,Hypertension
+262,Lakshmi Mishra,22.0,61.0,167.0,133.0,Hypertension
+263,Alok Pillai,76.0,64.0,150.0,126.0,Kidney Disease
+264,Lakshmi Nair,37.0,68.0,153.0,91.0,Diabetes
+265,Sudha Nath,70.0,54.0,146.0,153.0,Thyroid Disorder
+266,Vijay Pandey,88.0,72.0,150.0,130.0,Dengue
+267,Arjun Prasad,9.0,29.0,128.0,146.0,Malaria
+268,Deepak Rana,22.0,73.0,175.0,126.0,Asthma
+269,Nisha Kohli,44.0,71.0,175.0,160.0,Asthma
+270,Ramesh Reddy,38.0,60.0,160.0,134.0,Kidney Disease
+271,Swati Gupta,21.0,82.0,165.0,153.0,Malaria
+272,Anita Kulkarni,31.0,61.0,153.0,142.0,Dengue
+273,Abhinav Mishra,52.0,82.0,152.0,121.0,Thyroid Disorder
+274,Rajesh Prasad,10.0,29.0,97.0,98.0,Liver Disease
+275,Pooja Patel,30.0,56.0,162.0,113.0,Cardiovascular Disease
+276,Shankar Yadav,16.0,58.0,151.0,107.0,Respiratory Infection
+277,Arjun Gupta,18.0,57.0,137.0,139.0,Cardiovascular Disease
+278,Santosh Saxena,79.0,73.0,143.0,113.0,Diabetes
+279,Shankar Malhotra,76.0,51.0,151.0,117.0,Dengue
+280,Suman Saxena,62.0,59.0,146.0,103.0,Dengue
+281,Abhinav Nath,75.0,59.0,170.0,159.0,Kidney Disease
+282,Ramesh Prasad,25.0,81.0,167.0,118.0,Cardiovascular Disease
+283,Bhavana Kohli,62.0,70.0,145.0,143.0,Thyroid Disorder
+284,Rakesh Joshi,68.0,80.0,151.0,118.0,Hypertension
+285,Sanjay Chopra,11.0,28.0,121.0,119.0,Dengue
+286,Bhavana Mishra,30.0,79.0,174.0,142.0,Cardiovascular Disease
+287,Alok Kulkarni,53.0,83.0,178.0,128.0,Asthma
+288,Amit Yadav,8.0,37.0,139.0,149.0,Respiratory Infection
+289,Lakshmi Mishra,33.0,58.0,167.0,133.0,Malaria
+290,Anita Banerjee,11.0,27.0,136.0,145.0,Malaria
+291,Sudha Rana,8.0,37.0,126.0,101.0,Kidney Disease
+292,Pooja Kohli,60.0,55.0,179.0,151.0,Kidney Disease
+293,Ajay Das,65.0,69.0,158.0,106.0,Respiratory Infection
+294,Seema Kohli,67.0,47.0,142.0,91.0,Liver Disease
+295,Abhinav Reddy,7.0,40.0,117.0,117.0,Anemia
+296,Rohit Rana,82.0,78.0,160.0,105.0,Diabetes
+297,Arjun Aggarwal,78.0,64.0,143.0,159.0,Asthma
+298,Sudha Iyer,59.0,52.0,158.0,139.0,Kidney Disease
+299,Kiran Kohli,74.0,70.0,169.0,139.0,Anemia
+300,Amit Kulkarni,29.0,78.0,151.0,158.0,Kidney Disease
+301,Naveen Joshi,8.0,22.0,116.0,119.0,Kidney Disease
+302,Kiran Joshi,35.0,60.0,163.0,152.0,Cardiovascular Disease
+303,Priya Reddy,12.0,35.0,121.0,100.0,Dengue
+304,Geeta Bose,85.0,54.0,154.0,138.0,Asthma
+305,Anita Singh,65.0,54.0,156.0,157.0,Kidney Disease
+306,Kiran Singh,14.0,59.0,165.0,114.0,Diabetes
+307,Shankar Saxena,50.0,83.0,173.0,138.0,Cardiovascular Disease
+308,Santosh Rana,6.0,21.0,127.0,144.0,Asthma
+309,Suman Banerjee,17.0,43.0,142.0,158.0,Anemia
+310,Seema Kulkarni,52.0,56.0,165.0,118.0,Diabetes
+311,Rajesh Verma,43.0,76.0,180.0,121.0,Asthma
+312,Manoj Aggarwal,73.0,47.0,158.0,140.0,Dengue
+313,Ramesh Mishra,69.0,64.0,164.0,96.0,Liver Disease
+314,Ravi Chopra,85.0,62.0,153.0,144.0,Tuberculosis
+315,Rohit Pandey,82.0,45.0,141.0,99.0,Kidney Disease
+316,Preeti Joshi,75.0,64.0,152.0,92.0,Dengue
+317,Sandeep Reddy,11.0,34.0,122.0,133.0,Cardiovascular Disease
+318,Ravi Patel,13.0,51.0,150.0,131.0,Liver Disease
+319,Ajay Gupta,84.0,49.0,153.0,97.0,Kidney Disease
+320,Neha Iyer,22.0,51.0,177.0,152.0,Respiratory Infection
+321,Santosh Das,6.0,34.0,111.0,106.0,Anemia
+322,Ajay Sharma,3.0,38.0,114.0,125.0,Respiratory Infection
+323,Rohit Nair,36.0,59.0,168.0,138.0,Malaria
+324,Naveen Chopra,34.0,67.0,151.0,120.0,Cardiovascular Disease
+325,Nisha Iyer,33.0,54.0,161.0,90.0,Diabetes
+326,Vikas Rana,15.0,61.0,140.0,102.0,Cardiovascular Disease
+327,Amit Joshi,39.0,70.0,153.0,152.0,Anemia
+328,Bhavana Patel,3.0,18.0,109.0,148.0,Kidney Disease
+329,Geeta Aggarwal,8.0,33.0,101.0,114.0,Malaria
+330,Deepak Rao,2.0,38.0,108.0,126.0,Asthma
+331,Nisha Chopra,9.0,20.0,132.0,112.0,Anemia
+332,Sandeep Bose,10.0,30.0,123.0,131.0,Malaria
+333,Vijay Pandey,72.0,58.0,160.0,134.0,Liver Disease
+334,Ajay Patel,84.0,75.0,170.0,99.0,Tuberculosis
+335,Geeta Aggarwal,54.0,83.0,166.0,93.0,Thyroid Disorder
+336,Arjun Chopra,72.0,71.0,149.0,140.0,Hypertension
+337,Suman Yadav,77.0,48.0,146.0,107.0,Respiratory Infection
+338,Bhavana Singh,4.0,17.0,128.0,105.0,Thyroid Disorder
+339,Santosh Nair,52.0,78.0,176.0,92.0,Thyroid Disorder
+340,Amit Menon,18.0,63.0,139.0,120.0,Kidney Disease
+341,Sudha Das,57.0,61.0,156.0,137.0,Liver Disease
+342,Amit Gupta,63.0,67.0,148.0,115.0,Asthma
+343,Preeti Chatterjee,88.0,68.0,161.0,156.0,Kidney Disease
+344,Meena Sharma,8.0,16.0,122.0,142.0,Anemia
+345,Preeti Das,49.0,54.0,166.0,145.0,Tuberculosis
+346,Preeti Mehta,49.0,85.0,176.0,129.0,Kidney Disease
+347,Ajay Verma,52.0,55.0,158.0,156.0,Diabetes
+348,Preeti Banerjee,64.0,51.0,143.0,138.0,Kidney Disease
+349,Swati Pandey,4.0,31.0,139.0,121.0,Liver Disease
+350,Pooja Prasad,15.0,59.0,155.0,118.0,Asthma
+351,Amit Nair,15.0,44.0,149.0,119.0,Anemia
+352,Manoj Aggarwal,84.0,75.0,169.0,129.0,Cardiovascular Disease
+353,Lakshmi Verma,55.0,70.0,178.0,114.0,Cardiovascular Disease
+354,Vikas Das,43.0,63.0,175.0,100.0,Liver Disease
+355,Neha Iyer,75.0,51.0,160.0,142.0,Diabetes
+356,Ramesh Malhotra,42.0,61.0,160.0,92.0,Diabetes
+357,Sandeep Pandey,75.0,65.0,141.0,113.0,Malaria
+358,Santosh Kohli,12.0,41.0,132.0,117.0,Thyroid Disorder
+359,Alok Mehta,4.0,19.0,99.0,156.0,Anemia
+360,Sudha Bose,16.0,58.0,132.0,92.0,Malaria
+361,Santosh Kulkarni,29.0,84.0,154.0,150.0,Hypertension
+362,Naveen Kohli,32.0,50.0,166.0,140.0,Tuberculosis
+363,Suman Joshi,11.0,30.0,109.0,153.0,Liver Disease
+364,Sanjay Bose,82.0,79.0,170.0,112.0,Thyroid Disorder
+365,Arun Singh,68.0,72.0,169.0,127.0,Cardiovascular Disease
+366,Alok Prasad,34.0,54.0,180.0,100.0,Malaria
+367,Alok Rana,82.0,60.0,152.0,94.0,Thyroid Disorder
+368,Geeta Mehta,72.0,60.0,162.0,121.0,Cardiovascular Disease
+369,Meena Gupta,32.0,84.0,152.0,127.0,Malaria
+370,Ajay Reddy,74.0,48.0,154.0,105.0,Malaria
+371,Ajay Kohli,38.0,70.0,163.0,98.0,Thyroid Disorder
+372,Neha Menon,43.0,65.0,153.0,135.0,Kidney Disease
+373,Swati Kumar,54.0,63.0,151.0,149.0,Diabetes
+374,Pooja Pandey,57.0,81.0,168.0,150.0,Dengue
+375,Ramesh Banerjee,51.0,63.0,180.0,136.0,Malaria
+376,Santosh Verma,86.0,54.0,150.0,101.0,Asthma
+377,Ajay Menon,46.0,63.0,155.0,97.0,Kidney Disease
+378,Bhavana Yadav,82.0,64.0,168.0,125.0,Anemia
+379,Lakshmi Kulkarni,65.0,64.0,170.0,135.0,Malaria
+380,Arun Kulkarni,8.0,21.0,100.0,103.0,Dengue
+381,Ravi Kumar,87.0,69.0,167.0,139.0,Thyroid Disorder
+382,Manoj Bose,14.0,38.0,134.0,106.0,Tuberculosis
+383,Geeta Kohli,39.0,50.0,160.0,153.0,Cardiovascular Disease
+384,Alok Aggarwal,16.0,46.0,141.0,130.0,Malaria
+385,Vikas Yadav,9.0,17.0,134.0,116.0,Dengue
+386,Naveen Banerjee,28.0,60.0,170.0,133.0,Kidney Disease
+387,Sandeep Joshi,55.0,67.0,165.0,149.0,Liver Disease
+388,Rajesh Rana,38.0,69.0,165.0,135.0,Respiratory Infection
+389,Sunita Prasad,22.0,78.0,166.0,119.0,Liver Disease
+390,Rajesh Prasad,75.0,68.0,150.0,113.0,Dengue
+391,Pooja Pandey,58.0,72.0,180.0,93.0,Anemia
+392,Suman Menon,59.0,67.0,172.0,151.0,Tuberculosis
+393,Geeta Patel,18.0,66.0,161.0,90.0,Respiratory Infection
+394,Neha Menon,21.0,79.0,159.0,106.0,Diabetes
+395,Sudha Pandey,24.0,55.0,161.0,142.0,Asthma
+396,Sanjay Reddy,36.0,64.0,172.0,156.0,Cardiovascular Disease
+397,Ravi Malhotra,16.0,47.0,136.0,104.0,Diabetes
+398,Alok Singh,40.0,65.0,170.0,140.0,Tuberculosis
+399,Sunita Malhotra,80.0,55.0,163.0,160.0,Hypertension
+400,Deepak Bose,22.0,63.0,168.0,128.0,Kidney Disease
+401,Suman Banerjee,44.0,73.0,180.0,102.0,Dengue
+402,Bhavana Kohli,12.0,29.0,107.0,134.0,Liver Disease
+403,Rakesh Kumar,65.0,72.0,149.0,139.0,Cardiovascular Disease
+404,Suman Reddy,77.0,59.0,161.0,92.0,Asthma
+405,Naveen Aggarwal,39.0,65.0,166.0,140.0,Kidney Disease
+406,Deepak Pillai,22.0,63.0,152.0,138.0,Malaria
+407,Bhavana Nath,16.0,39.0,159.0,142.0,Malaria
+408,Alok Singh,78.0,77.0,164.0,110.0,Malaria
+409,Rakesh Pillai,58.0,76.0,153.0,92.0,Liver Disease
+410,Indira Pillai,69.0,78.0,145.0,115.0,Cardiovascular Disease
+411,Arjun Rana,6.0,32.0,126.0,116.0,Liver Disease
+412,Sunita Rana,65.0,49.0,160.0,116.0,Asthma
+413,Geeta Menon,32.0,84.0,159.0,149.0,Malaria
+414,Ajay Prasad,36.0,79.0,154.0,153.0,Tuberculosis
+415,Ravi Iyer,89.0,60.0,143.0,93.0,Hypertension
+416,Swati Desai,32.0,78.0,178.0,117.0,Cardiovascular Disease
+417,Lakshmi Banerjee,63.0,63.0,162.0,133.0,Respiratory Infection
+418,Alok Mehta,20.0,75.0,172.0,117.0,Hypertension
+419,Bhavana Mishra,52.0,82.0,174.0,155.0,Respiratory Infection
+420,Kiran Mehta,32.0,50.0,179.0,94.0,Cardiovascular Disease
+421,Preeti Iyer,66.0,58.0,167.0,134.0,Thyroid Disorder
+422,Kavita Nath,2.0,24.0,137.0,121.0,Hypertension
+423,Arjun Sharma,38.0,78.0,170.0,113.0,Thyroid Disorder
+424,Kiran Chopra,75.0,65.0,165.0,148.0,Cardiovascular Disease
+425,Meena Kumar,37.0,58.0,174.0,91.0,Malaria
+426,Sanjay Mishra,59.0,64.0,155.0,92.0,Respiratory Infection
+427,Swati Chatterjee,53.0,59.0,162.0,156.0,Respiratory Infection
+428,Naveen Reddy,13.0,38.0,167.0,155.0,Respiratory Infection
+429,Amit Rao,17.0,54.0,144.0,99.0,Liver Disease
+430,Naveen Iyer,35.0,59.0,152.0,109.0,Liver Disease
+431,Swati Sharma,33.0,79.0,166.0,154.0,Hypertension
+432,Naveen Pillai,85.0,57.0,146.0,146.0,Liver Disease
+433,Rajesh Nair,38.0,63.0,176.0,137.0,Thyroid Disorder
+434,Santosh Gupta,48.0,76.0,165.0,153.0,Malaria
+435,Indira Rana,29.0,55.0,162.0,107.0,Dengue
+436,Vijay Joshi,65.0,64.0,167.0,126.0,Malaria
+437,Seema Chatterjee,59.0,79.0,173.0,100.0,Thyroid Disorder
+438,Arjun Pillai,26.0,65.0,159.0,101.0,Asthma
+439,Naveen Chatterjee,74.0,74.0,151.0,96.0,Diabetes
+440,Arun Malhotra,31.0,52.0,153.0,118.0,Malaria
+441,Naveen Reddy,10.0,44.0,93.0,159.0,Kidney Disease
+442,Indira Chopra,62.0,49.0,142.0,102.0,Tuberculosis
+443,Ravi Kohli,86.0,75.0,168.0,133.0,Liver Disease
+444,Rohit Rao,63.0,46.0,157.0,151.0,Hypertension
+445,Arjun Pandey,6.0,44.0,92.0,149.0,Hypertension
+446,Anjali Singh,48.0,83.0,154.0,149.0,Liver Disease
+447,Lakshmi Reddy,69.0,76.0,148.0,147.0,Anemia
+448,Amit Pillai,45.0,84.0,168.0,118.0,Diabetes
+449,Arun Banerjee,24.0,85.0,170.0,114.0,Respiratory Infection
+450,Bhavana Kohli,59.0,51.0,158.0,147.0,Dengue
+451,Suman Gupta,17.0,54.0,148.0,157.0,Kidney Disease
+452,Seema Pandey,62.0,61.0,142.0,90.0,Respiratory Infection
+453,Lakshmi Verma,64.0,62.0,166.0,146.0,Asthma
+454,Sunita Reddy,70.0,61.0,169.0,154.0,Respiratory Infection
+455,Kavita Verma,83.0,53.0,158.0,117.0,Tuberculosis
+456,Ajay Pillai,5.0,44.0,112.0,148.0,Cardiovascular Disease
+457,Sudha Pillai,17.0,36.0,152.0,127.0,Thyroid Disorder
+458,Vikas Kohli,59.0,69.0,158.0,107.0,Anemia
+459,Arjun Iyer,8.0,31.0,121.0,110.0,Diabetes
+460,Rajesh Mishra,33.0,77.0,180.0,132.0,Kidney Disease
+461,Ajay Yadav,68.0,76.0,155.0,94.0,Thyroid Disorder
+462,Sudha Iyer,11.0,18.0,114.0,130.0,Tuberculosis
+463,Shankar Pillai,5.0,34.0,122.0,141.0,Thyroid Disorder
+464,Geeta Pandey,74.0,45.0,143.0,157.0,Anemia
+465,Geeta Kulkarni,38.0,77.0,180.0,137.0,Liver Disease
+466,Indira Iyer,52.0,58.0,153.0,144.0,Anemia
+467,Sanjay Desai,19.0,84.0,151.0,125.0,Kidney Disease
+468,Anita Sharma,48.0,81.0,150.0,112.0,Kidney Disease
+469,Deepak Iyer,17.0,40.0,139.0,155.0,Hypertension
+470,Amit Prasad,82.0,71.0,144.0,141.0,Asthma
+471,Ramesh Rana,8.0,17.0,136.0,127.0,Malaria
+472,Kavita Desai,42.0,72.0,169.0,122.0,Cardiovascular Disease
+473,Geeta Nath,4.0,43.0,119.0,92.0,Asthma
+474,Seema Nath,53.0,51.0,160.0,132.0,Malaria
+475,Sudha Desai,27.0,85.0,171.0,99.0,Thyroid Disorder
+476,Suman Kohli,46.0,81.0,177.0,139.0,Anemia
+477,Sudha Saxena,75.0,58.0,167.0,152.0,Asthma
+478,Naveen Sharma,2.0,41.0,117.0,104.0,Tuberculosis
+479,Vikas Verma,1.0,26.0,116.0,134.0,Respiratory Infection
+480,Abhinav Das,53.0,61.0,160.0,150.0,Anemia
+481,Abhinav Nath,68.0,72.0,148.0,158.0,Asthma
+482,Sunita Gupta,33.0,71.0,171.0,122.0,Diabetes
+483,Arjun Yadav,28.0,70.0,173.0,137.0,Kidney Disease
+484,Bhavana Mishra,81.0,65.0,144.0,116.0,Tuberculosis
+485,Bhavana Nair,4.0,19.0,135.0,115.0,Dengue
+486,Sudha Chopra,2.0,27.0,116.0,135.0,Anemia
+487,Ramesh Kulkarni,25.0,62.0,164.0,91.0,Diabetes
+488,Ravi Desai,14.0,62.0,135.0,102.0,Thyroid Disorder
+489,Nisha Saxena,18.0,52.0,164.0,113.0,Malaria
+490,Arun Joshi,36.0,66.0,157.0,131.0,Dengue
+491,Swati Malhotra,33.0,81.0,153.0,110.0,Diabetes
+492,Kiran Saxena,25.0,76.0,160.0,109.0,Dengue
+493,Rakesh Iyer,56.0,51.0,150.0,130.0,Diabetes
+494,Indira Mehta,26.0,59.0,152.0,100.0,Anemia
+495,Kavita Banerjee,33.0,84.0,157.0,154.0,Asthma
+496,Priya Saxena,43.0,51.0,173.0,142.0,Diabetes
+497,Bhavana Desai,16.0,48.0,143.0,141.0,Kidney Disease
+498,Swati Bose,51.0,61.0,159.0,149.0,Anemia
+499,Abhinav Banerjee,72.0,79.0,164.0,151.0,Asthma
+500,Pooja Menon,5.0,44.0,110.0,125.0,Malaria
+501,Shankar Rao,29.0,72.0,174.0,108.0,Hypertension
+502,Seema Yadav,34.0,81.0,171.0,119.0,Cardiovascular Disease
+503,Nisha Banerjee,6.0,26.0,117.0,143.0,Asthma
+504,Kiran Yadav,37.0,58.0,174.0,155.0,Diabetes
+505,Abhinav Chatterjee,34.0,84.0,165.0,129.0,Dengue
+506,Amit Menon,56.0,65.0,155.0,123.0,Dengue
+507,Seema Pandey,20.0,69.0,153.0,144.0,Anemia
+508,Sudha Nair,80.0,54.0,161.0,155.0,Tuberculosis
+509,Seema Mehta,71.0,76.0,140.0,127.0,Respiratory Infection
+510,Manoj Prasad,89.0,59.0,169.0,93.0,Respiratory Infection
+511,Sunita Iyer,41.0,74.0,158.0,96.0,Hypertension
+512,Anita Prasad,30.0,50.0,154.0,151.0,Asthma
+513,Priya Mehta,60.0,76.0,161.0,134.0,Liver Disease
+514,Priya Aggarwal,49.0,66.0,179.0,121.0,Thyroid Disorder
+515,Preeti Aggarwal,26.0,83.0,151.0,99.0,Anemia
+516,Meena Kumar,19.0,60.0,160.0,150.0,Asthma
+517,Manoj Aggarwal,89.0,67.0,147.0,137.0,Thyroid Disorder
+518,Alok Mehta,40.0,80.0,175.0,157.0,Anemia
+519,Preeti Banerjee,64.0,59.0,151.0,159.0,Dengue
+520,Sanjay Nath,74.0,63.0,143.0,102.0,Liver Disease
+521,Swati Singh,67.0,72.0,167.0,123.0,Cardiovascular Disease
+522,Arun Yadav,69.0,47.0,165.0,110.0,Malaria
+523,Sudha Pillai,42.0,56.0,161.0,153.0,Anemia
+524,Naveen Mehta,22.0,85.0,177.0,134.0,Malaria
+525,Sunita Kulkarni,47.0,68.0,171.0,157.0,Anemia
+526,Vikas Pandey,67.0,61.0,170.0,124.0,Asthma
+527,Rakesh Malhotra,63.0,80.0,166.0,143.0,Asthma
+528,Arun Mehta,14.0,46.0,145.0,113.0,Dengue
+529,Abhinav Malhotra,16.0,43.0,142.0,145.0,Kidney Disease
+530,Bhavana Nath,61.0,55.0,142.0,134.0,Thyroid Disorder
+531,Meena Reddy,13.0,41.0,135.0,115.0,Dengue
+532,Manoj Rana,35.0,51.0,175.0,155.0,Asthma
+533,Vijay Chatterjee,59.0,78.0,151.0,113.0,Kidney Disease
+534,Arun Mehta,26.0,68.0,156.0,129.0,Asthma
+535,Geeta Kulkarni,73.0,74.0,157.0,123.0,Tuberculosis
+536,Anita Nath,84.0,67.0,168.0,128.0,Anemia
+537,Arun Menon,32.0,62.0,152.0,132.0,Cardiovascular Disease
+538,Swati Mishra,47.0,70.0,160.0,98.0,Thyroid Disorder
+539,Anita Mishra,55.0,65.0,179.0,90.0,Respiratory Infection
+540,Arjun Singh,7.0,23.0,115.0,121.0,Dengue
+541,Anita Pandey,28.0,67.0,166.0,112.0,Thyroid Disorder
+542,Neha Aggarwal,80.0,53.0,169.0,99.0,Kidney Disease
+543,Sandeep Chopra,72.0,65.0,145.0,105.0,Respiratory Infection
+544,Manoj Sharma,44.0,77.0,161.0,153.0,Asthma
+545,Priya Nair,85.0,53.0,169.0,97.0,Asthma
+546,Rajesh Menon,85.0,63.0,169.0,127.0,Dengue
+547,Lakshmi Pillai,76.0,64.0,141.0,104.0,Liver Disease
+548,Meena Sharma,7.0,44.0,119.0,123.0,Hypertension
+549,Kavita Mishra,46.0,51.0,171.0,124.0,Asthma
+550,Vijay Mishra,59.0,72.0,167.0,111.0,Liver Disease
+551,Seema Bose,84.0,78.0,150.0,160.0,Liver Disease
+552,Anjali Kumar,30.0,51.0,173.0,154.0,Malaria
+553,Pooja Reddy,76.0,47.0,168.0,139.0,Respiratory Infection
+554,Neha Banerjee,10.0,44.0,106.0,149.0,Thyroid Disorder
+555,Rajesh Patel,19.0,68.0,155.0,106.0,Respiratory Infection
+556,Vikas Iyer,73.0,47.0,152.0,121.0,Cardiovascular Disease
+557,Preeti Singh,32.0,85.0,156.0,124.0,Malaria
+558,Neha Kohli,76.0,47.0,150.0,97.0,Cardiovascular Disease
+559,Anita Verma,44.0,78.0,177.0,92.0,Diabetes
+560,Sudha Patel,27.0,64.0,169.0,156.0,Tuberculosis
+561,Rohit Nair,30.0,63.0,159.0,129.0,Respiratory Infection
+562,Neha Sharma,84.0,76.0,156.0,138.0,Dengue
+563,Ravi Singh,38.0,78.0,152.0,120.0,Cardiovascular Disease
+564,Abhinav Kumar,53.0,60.0,159.0,151.0,Hypertension
+565,Santosh Prasad,51.0,61.0,175.0,154.0,Liver Disease
+566,Anita Reddy,26.0,53.0,180.0,112.0,Hypertension
+567,Ravi Rana,13.0,65.0,141.0,100.0,Malaria
+568,Priya Das,61.0,73.0,151.0,132.0,Hypertension
+569,Ajay Banerjee,26.0,69.0,171.0,117.0,Dengue
+570,Priya Iyer,73.0,76.0,167.0,157.0,Tuberculosis
+571,Amit Chopra,81.0,71.0,161.0,100.0,Tuberculosis
+572,Ravi Aggarwal,47.0,69.0,174.0,134.0,Dengue
+573,Rohit Chopra,90.0,53.0,164.0,98.0,Diabetes
+574,Kiran Malhotra,13.0,45.0,166.0,127.0,Asthma
+575,Vikas Gupta,24.0,78.0,156.0,136.0,Liver Disease
+576,Rohit Reddy,80.0,64.0,167.0,101.0,Tuberculosis
+577,Santosh Chopra,90.0,79.0,162.0,160.0,Cardiovascular Disease
+578,Alok Sharma,3.0,30.0,134.0,115.0,Malaria
+579,Neha Kulkarni,77.0,54.0,164.0,136.0,Hypertension
+580,Arun Mishra,69.0,80.0,145.0,144.0,Respiratory Infection
+581,Vikas Pillai,42.0,53.0,171.0,141.0,Asthma
+582,Seema Chopra,27.0,82.0,156.0,124.0,Cardiovascular Disease
+583,Swati Menon,21.0,72.0,153.0,157.0,Malaria
+584,Sunita Singh,72.0,79.0,161.0,94.0,Cardiovascular Disease
+585,Swati Prasad,8.0,27.0,95.0,145.0,Liver Disease
+586,Geeta Rana,70.0,55.0,151.0,102.0,Anemia
+587,Lakshmi Patel,38.0,62.0,179.0,160.0,Kidney Disease
+588,Vijay Singh,19.0,73.0,156.0,148.0,Malaria
+589,Rohit Singh,83.0,66.0,168.0,124.0,Diabetes
+590,Pooja Chopra,41.0,56.0,153.0,160.0,Diabetes
+591,Lakshmi Pandey,10.0,42.0,91.0,158.0,Liver Disease
+592,Neha Reddy,88.0,61.0,155.0,118.0,Tuberculosis
+593,Rakesh Pillai,42.0,58.0,169.0,120.0,Anemia
+594,Suman Nath,46.0,82.0,152.0,123.0,Respiratory Infection
+595,Meena Malhotra,14.0,45.0,163.0,122.0,Cardiovascular Disease
+596,Santosh Kumar,41.0,66.0,173.0,136.0,Anemia
+597,Sudha Banerjee,59.0,56.0,158.0,99.0,Anemia
+598,Santosh Gupta,82.0,51.0,161.0,153.0,Liver Disease
+599,Deepak Menon,57.0,81.0,167.0,155.0,Anemia
+600,Nisha Menon,15.0,58.0,145.0,139.0,Malaria
+601,Suman Aggarwal,46.0,71.0,163.0,117.0,Kidney Disease
+602,Preeti Prasad,80.0,71.0,169.0,94.0,Anemia
+603,Bhavana Das,77.0,60.0,145.0,90.0,Cardiovascular Disease
+604,Ravi Aggarwal,17.0,37.0,162.0,134.0,Dengue
+605,Anita Kohli,49.0,70.0,151.0,116.0,Respiratory Infection
+606,Rohit Das,71.0,50.0,150.0,143.0,Liver Disease
+607,Nisha Nath,53.0,82.0,165.0,124.0,Anemia
+608,Indira Pillai,62.0,79.0,157.0,132.0,Diabetes
+609,Anita Yadav,32.0,85.0,157.0,107.0,Liver Disease
+610,Vijay Singh,5.0,37.0,99.0,156.0,Dengue
+611,Kavita Gupta,41.0,83.0,169.0,113.0,Hypertension
+612,Manoj Pandey,47.0,69.0,177.0,133.0,Diabetes
+613,Arjun Mishra,69.0,58.0,152.0,127.0,Kidney Disease
+614,Neha Malhotra,76.0,68.0,152.0,155.0,Kidney Disease
+615,Anjali Gupta,11.0,39.0,94.0,106.0,Kidney Disease
+616,Sanjay Verma,14.0,69.0,150.0,117.0,Malaria
+617,Arun Kumar,62.0,79.0,169.0,117.0,Dengue
+618,Suman Rana,61.0,51.0,166.0,92.0,Dengue
+619,Preeti Kohli,74.0,66.0,146.0,112.0,Respiratory Infection
+620,Sandeep Pandey,65.0,71.0,162.0,156.0,Anemia
+621,Neha Nath,33.0,70.0,150.0,97.0,Tuberculosis
+622,Vijay Joshi,16.0,42.0,136.0,143.0,Thyroid Disorder
+623,Deepak Prasad,34.0,55.0,174.0,157.0,Diabetes
+624,Vikas Gupta,86.0,51.0,140.0,148.0,Diabetes
+625,Lakshmi Kumar,63.0,49.0,160.0,141.0,Asthma
+626,Vijay Chatterjee,37.0,57.0,173.0,158.0,Dengue
+627,Seema Kohli,71.0,64.0,169.0,116.0,Diabetes
+628,Swati Rao,21.0,76.0,159.0,130.0,Respiratory Infection
+629,Bhavana Menon,76.0,54.0,158.0,127.0,Dengue
+630,Abhinav Kohli,41.0,84.0,158.0,122.0,Respiratory Infection
+631,Vikas Saxena,81.0,46.0,165.0,125.0,Thyroid Disorder
+632,Naveen Iyer,44.0,72.0,151.0,144.0,Thyroid Disorder
+633,Amit Aggarwal,55.0,64.0,178.0,155.0,Respiratory Infection
+634,Arun Rana,21.0,76.0,152.0,127.0,Respiratory Infection
+635,Rajesh Nath,38.0,51.0,159.0,138.0,Cardiovascular Disease
+636,Vijay Bose,77.0,78.0,168.0,159.0,Malaria
+637,Vikas Desai,42.0,60.0,156.0,96.0,Diabetes
+638,Rajesh Singh,80.0,62.0,154.0,142.0,Liver Disease
+639,Anita Bose,55.0,64.0,162.0,92.0,Malaria
+640,Indira Rao,90.0,66.0,169.0,158.0,Malaria
+641,Preeti Kumar,86.0,47.0,159.0,109.0,Hypertension
+642,Santosh Mishra,40.0,77.0,166.0,118.0,Liver Disease
+643,Nisha Rana,76.0,57.0,154.0,116.0,Tuberculosis
+644,Indira Sharma,65.0,52.0,165.0,110.0,Anemia
+645,Nisha Rana,83.0,61.0,144.0,153.0,Diabetes
+646,Ajay Joshi,47.0,71.0,170.0,104.0,Dengue
+647,Nisha Patel,63.0,45.0,150.0,109.0,Cardiovascular Disease
+648,Shankar Kohli,25.0,67.0,178.0,138.0,Asthma
+649,Shankar Mehta,26.0,66.0,169.0,129.0,Hypertension
+650,Santosh Kulkarni,40.0,65.0,163.0,111.0,Malaria
+651,Seema Gupta,54.0,74.0,164.0,135.0,Liver Disease
+652,Arjun Reddy,47.0,59.0,166.0,147.0,Thyroid Disorder
+653,Shankar Joshi,66.0,69.0,165.0,153.0,Tuberculosis
+654,Ravi Pandey,18.0,55.0,140.0,154.0,Tuberculosis
+655,Nisha Iyer,90.0,71.0,143.0,120.0,Malaria
+656,Abhinav Das,32.0,62.0,169.0,149.0,Liver Disease
+657,Lakshmi Prasad,53.0,79.0,150.0,117.0,Tuberculosis
+658,Alok Patel,43.0,64.0,179.0,138.0,Thyroid Disorder
+659,Alok Nair,90.0,67.0,162.0,94.0,Anemia
+660,Swati Menon,36.0,76.0,179.0,143.0,Asthma
+661,Geeta Nath,49.0,58.0,160.0,90.0,Thyroid Disorder
+662,Ravi Aggarwal,88.0,57.0,170.0,102.0,Cardiovascular Disease
+663,Suman Desai,60.0,74.0,151.0,94.0,Hypertension
+664,Indira Prasad,44.0,54.0,176.0,104.0,Asthma
+665,Ravi Pandey,14.0,53.0,158.0,104.0,Dengue
+666,Kiran Iyer,13.0,49.0,148.0,127.0,Tuberculosis
+667,Bhavana Kohli,15.0,55.0,135.0,155.0,Thyroid Disorder
+668,Priya Pandey,41.0,77.0,170.0,153.0,Dengue
+669,Kiran Rao,60.0,60.0,161.0,129.0,Cardiovascular Disease
+670,Anita Kumar,84.0,55.0,164.0,96.0,Hypertension
+671,Sandeep Reddy,69.0,62.0,149.0,153.0,Respiratory Infection
+672,Arun Das,81.0,77.0,170.0,129.0,Dengue
+673,Lakshmi Verma,39.0,66.0,169.0,131.0,Liver Disease
+674,Abhinav Reddy,41.0,60.0,150.0,136.0,Respiratory Infection
+675,Alok Banerjee,57.0,51.0,154.0,114.0,Liver Disease
+676,Pooja Reddy,61.0,74.0,144.0,102.0,Liver Disease
+677,Amit Mishra,25.0,80.0,173.0,130.0,Cardiovascular Disease
+678,Rohit Kohli,47.0,83.0,159.0,106.0,Thyroid Disorder
+679,Suman Aggarwal,38.0,78.0,175.0,120.0,Hypertension
+680,Geeta Joshi,74.0,79.0,169.0,136.0,Malaria
+681,Arjun Joshi,78.0,64.0,142.0,146.0,Diabetes
+682,Anjali Reddy,17.0,61.0,162.0,119.0,Liver Disease
+683,Arjun Nair,57.0,65.0,165.0,125.0,Kidney Disease
+684,Swati Iyer,26.0,72.0,169.0,112.0,Dengue
+685,Arun Yadav,65.0,56.0,144.0,115.0,Dengue
+686,Abhinav Kulkarni,12.0,15.0,105.0,94.0,Diabetes
+687,Naveen Menon,9.0,45.0,122.0,125.0,Anemia
+688,Neha Kulkarni,6.0,41.0,126.0,135.0,Hypertension
+689,Pooja Rana,89.0,52.0,155.0,154.0,Cardiovascular Disease
+690,Indira Joshi,31.0,53.0,163.0,121.0,Cardiovascular Disease
+691,Manoj Gupta,44.0,77.0,154.0,120.0,Diabetes
+692,Rakesh Kulkarni,71.0,75.0,148.0,127.0,Tuberculosis
+693,Shankar Patel,54.0,63.0,163.0,119.0,Malaria
+694,Ajay Gupta,46.0,81.0,154.0,113.0,Hypertension
+695,Kavita Yadav,52.0,73.0,158.0,138.0,Tuberculosis
+696,Santosh Rana,51.0,85.0,155.0,114.0,Liver Disease
+697,Kavita Desai,75.0,55.0,156.0,156.0,Liver Disease
+698,Ravi Reddy,84.0,67.0,149.0,123.0,Tuberculosis
+699,Vikas Das,18.0,62.0,166.0,90.0,Thyroid Disorder
+700,Anjali Nath,9.0,42.0,139.0,158.0,Anemia
+701,Shankar Joshi,81.0,48.0,142.0,111.0,Cardiovascular Disease
+702,Rajesh Rana,38.0,60.0,167.0,158.0,Liver Disease
+703,Anita Gupta,76.0,75.0,165.0,90.0,Asthma
+704,Seema Verma,7.0,39.0,138.0,136.0,Thyroid Disorder
+705,Sudha Gupta,73.0,51.0,158.0,139.0,Thyroid Disorder
+706,Alok Nair,51.0,66.0,166.0,100.0,Malaria
+707,Seema Pandey,18.0,43.0,154.0,102.0,Tuberculosis
+708,Rakesh Sharma,45.0,51.0,154.0,148.0,Anemia
+709,Sanjay Patel,10.0,37.0,103.0,107.0,Anemia
+710,Geeta Patel,42.0,61.0,171.0,113.0,Malaria
+711,Bhavana Chatterjee,30.0,76.0,159.0,127.0,Dengue
+712,Anjali Kohli,71.0,52.0,144.0,156.0,Respiratory Infection
+713,Indira Nair,24.0,56.0,158.0,95.0,Liver Disease
+714,Deepak Chatterjee,55.0,60.0,152.0,156.0,Respiratory Infection
+715,Seema Reddy,40.0,59.0,165.0,140.0,Tuberculosis
+716,Arun Prasad,41.0,83.0,165.0,157.0,Respiratory Infection
+717,Swati Saxena,84.0,64.0,153.0,144.0,Cardiovascular Disease
+718,Seema Chatterjee,42.0,51.0,165.0,147.0,Kidney Disease
+719,Anita Kumar,78.0,57.0,149.0,160.0,Malaria
+720,Ajay Chopra,80.0,74.0,167.0,126.0,Dengue
+721,Santosh Nair,26.0,78.0,158.0,125.0,Hypertension
+722,Rakesh Verma,58.0,65.0,179.0,99.0,Dengue
+723,Nisha Bose,35.0,77.0,163.0,91.0,Thyroid Disorder
+724,Geeta Reddy,68.0,79.0,146.0,106.0,Hypertension
+725,Kiran Patel,29.0,60.0,156.0,97.0,Asthma
+726,Rajesh Malhotra,72.0,77.0,164.0,102.0,Thyroid Disorder
+727,Neha Das,13.0,41.0,139.0,132.0,Diabetes
+728,Vikas Iyer,22.0,84.0,167.0,159.0,Hypertension
+729,Abhinav Aggarwal,31.0,62.0,168.0,133.0,Diabetes
+730,Neha Verma,20.0,83.0,168.0,135.0,Kidney Disease
+731,Sandeep Gupta,70.0,63.0,161.0,138.0,Asthma
+732,Anita Kohli,48.0,65.0,176.0,90.0,Diabetes
+733,Arjun Aggarwal,19.0,63.0,165.0,110.0,Respiratory Infection
+734,Kiran Kumar,22.0,71.0,175.0,126.0,Liver Disease
+735,Santosh Aggarwal,1.0,41.0,132.0,95.0,Hypertension
+736,Priya Yadav,29.0,78.0,177.0,115.0,Diabetes
+737,Rakesh Rana,53.0,56.0,168.0,94.0,Kidney Disease
+738,Meena Banerjee,80.0,47.0,158.0,149.0,Thyroid Disorder
+739,Shankar Das,32.0,72.0,153.0,131.0,Kidney Disease
+740,Nisha Rao,42.0,83.0,157.0,147.0,Cardiovascular Disease
+741,Vikas Pandey,88.0,65.0,161.0,147.0,Anemia
+742,Anjali Iyer,47.0,63.0,177.0,107.0,Anemia
+743,Swati Patel,32.0,69.0,177.0,133.0,Malaria
+744,Rajesh Rana,79.0,80.0,164.0,128.0,Kidney Disease
+745,Arun Chatterjee,28.0,84.0,162.0,112.0,Dengue
+746,Naveen Pillai,26.0,51.0,172.0,113.0,Respiratory Infection
+747,Anita Das,59.0,56.0,153.0,99.0,Dengue
+748,Sanjay Aggarwal,10.0,15.0,117.0,93.0,Kidney Disease
+749,Vikas Nath,89.0,49.0,141.0,159.0,Cardiovascular Disease
+750,Arjun Iyer,66.0,53.0,146.0,97.0,Dengue
+751,Seema Bose,16.0,37.0,131.0,102.0,Diabetes
+752,Neha Mishra,33.0,55.0,153.0,126.0,Kidney Disease
+753,Sudha Kumar,28.0,69.0,167.0,154.0,Malaria
+754,Geeta Singh,76.0,48.0,148.0,154.0,Thyroid Disorder
+755,Geeta Kohli,90.0,71.0,164.0,144.0,Asthma
+756,Naveen Das,72.0,53.0,156.0,146.0,Liver Disease
+757,Ajay Saxena,73.0,77.0,167.0,100.0,Thyroid Disorder
+758,Kavita Aggarwal,20.0,81.0,163.0,136.0,Kidney Disease
+759,Ramesh Pillai,87.0,58.0,165.0,140.0,Tuberculosis
+760,Naveen Sharma,76.0,66.0,154.0,126.0,Dengue
+761,Rohit Nair,6.0,44.0,109.0,104.0,Anemia
+762,Vijay Chopra,45.0,67.0,155.0,132.0,Dengue
+763,Arjun Banerjee,39.0,63.0,155.0,110.0,Liver Disease
+764,Seema Reddy,48.0,74.0,156.0,111.0,Hypertension
+765,Pooja Menon,85.0,74.0,148.0,129.0,Dengue
+766,Vikas Singh,62.0,63.0,144.0,114.0,Dengue
+767,Lakshmi Patel,67.0,71.0,148.0,135.0,Tuberculosis
+768,Arjun Mishra,73.0,57.0,155.0,148.0,Liver Disease
+769,Bhavana Aggarwal,80.0,69.0,169.0,145.0,Anemia
+770,Sunita Rana,20.0,84.0,155.0,118.0,Respiratory Infection
+771,Preeti Mehta,45.0,51.0,164.0,123.0,Malaria
+772,Deepak Yadav,12.0,23.0,90.0,102.0,Dengue
+773,Manoj Bose,13.0,63.0,162.0,105.0,Respiratory Infection
+774,Kavita Nath,48.0,67.0,158.0,93.0,Diabetes
+775,Sandeep Aggarwal,50.0,51.0,161.0,128.0,Malaria
+776,Kiran Yadav,66.0,70.0,164.0,142.0,Asthma
+777,Sandeep Malhotra,23.0,80.0,157.0,95.0,Asthma
+778,Ramesh Mehta,40.0,74.0,159.0,120.0,Hypertension
+779,Arjun Aggarwal,23.0,80.0,150.0,114.0,Hypertension
+780,Abhinav Patel,17.0,49.0,152.0,155.0,Respiratory Infection
+781,Vikas Bose,75.0,53.0,140.0,119.0,Dengue
+782,Naveen Nath,2.0,34.0,138.0,142.0,Hypertension
+783,Vikas Banerjee,22.0,72.0,151.0,137.0,Malaria
+784,Swati Malhotra,46.0,82.0,167.0,116.0,Kidney Disease
+785,Priya Mishra,48.0,85.0,153.0,138.0,Liver Disease
+786,Pooja Aggarwal,60.0,84.0,167.0,120.0,Malaria
+787,Indira Verma,68.0,55.0,146.0,137.0,Thyroid Disorder
+788,Abhinav Prasad,82.0,51.0,144.0,133.0,Liver Disease
+789,Kiran Pillai,56.0,69.0,172.0,137.0,Diabetes
+790,Nisha Rao,33.0,74.0,150.0,151.0,Anemia
+791,Priya Singh,75.0,63.0,163.0,98.0,Liver Disease
+792,Arun Saxena,14.0,40.0,158.0,157.0,Anemia
+793,Ravi Pandey,85.0,80.0,146.0,102.0,Thyroid Disorder
+794,Abhinav Sharma,35.0,84.0,165.0,114.0,Malaria
+795,Santosh Patel,29.0,52.0,160.0,109.0,Dengue
+796,Alok Banerjee,7.0,45.0,110.0,103.0,Anemia
+797,Kiran Menon,86.0,78.0,159.0,95.0,Asthma
+798,Shankar Mishra,82.0,67.0,164.0,114.0,Malaria
+799,Meena Pandey,27.0,75.0,172.0,106.0,Hypertension
+800,Manoj Bose,90.0,60.0,143.0,91.0,Anemia
+801,Sudha Das,47.0,73.0,159.0,90.0,Thyroid Disorder
+802,Nisha Kulkarni,61.0,75.0,170.0,105.0,Asthma
+803,Kiran Joshi,79.0,65.0,155.0,93.0,Anemia
+804,Nisha Mishra,44.0,76.0,174.0,92.0,Diabetes
+805,Indira Aggarwal,8.0,25.0,123.0,152.0,Kidney Disease
+806,Seema Prasad,49.0,70.0,177.0,103.0,Dengue
+807,Ramesh Banerjee,3.0,29.0,130.0,109.0,Malaria
+808,Bhavana Verma,41.0,61.0,160.0,117.0,Malaria
+809,Pooja Singh,47.0,67.0,157.0,144.0,Dengue
+810,Anita Patel,46.0,81.0,162.0,109.0,Malaria
+811,Indira Joshi,12.0,23.0,127.0,114.0,Dengue
+812,Swati Bose,88.0,74.0,170.0,149.0,Anemia
+813,Ramesh Pandey,18.0,67.0,165.0,131.0,Respiratory Infection
+814,Rakesh Mehta,13.0,62.0,146.0,159.0,Kidney Disease
+815,Meena Prasad,37.0,74.0,169.0,136.0,Hypertension
+816,Ajay Kulkarni,19.0,80.0,166.0,146.0,Malaria
+817,Priya Mishra,64.0,63.0,151.0,140.0,Respiratory Infection
+818,Vikas Gupta,62.0,63.0,145.0,91.0,Dengue
+819,Manoj Desai,66.0,62.0,159.0,147.0,Hypertension
+820,Sandeep Malhotra,90.0,65.0,151.0,149.0,Anemia
+821,Arun Kohli,10.0,44.0,136.0,107.0,Diabetes
+822,Alok Verma,88.0,60.0,152.0,118.0,Tuberculosis
+823,Meena Sharma,42.0,64.0,172.0,107.0,Anemia
+824,Indira Rao,1.0,31.0,96.0,118.0,Asthma
+825,Neha Chatterjee,36.0,61.0,164.0,91.0,Diabetes
+826,Arjun Patel,2.0,23.0,101.0,133.0,Asthma
+827,Lakshmi Chatterjee,87.0,80.0,151.0,151.0,Hypertension
+828,Ramesh Rao,82.0,79.0,142.0,107.0,Tuberculosis
+829,Deepak Nair,72.0,55.0,143.0,134.0,Thyroid Disorder
+830,Ravi Chatterjee,62.0,71.0,143.0,137.0,Thyroid Disorder
+831,Abhinav Das,88.0,52.0,141.0,104.0,Cardiovascular Disease
+832,Nisha Sharma,67.0,54.0,154.0,140.0,Liver Disease
+833,Anjali Pillai,42.0,70.0,155.0,134.0,Dengue
+834,Shankar Bose,66.0,70.0,152.0,133.0,Hypertension
+835,Vikas Das,20.0,62.0,150.0,105.0,Respiratory Infection
+836,Arjun Pillai,51.0,71.0,163.0,125.0,Malaria
+837,Sanjay Singh,19.0,71.0,178.0,115.0,Hypertension
+838,Santosh Chopra,46.0,83.0,166.0,101.0,Thyroid Disorder
+839,Sanjay Prasad,86.0,47.0,168.0,93.0,Asthma
+840,Kiran Nair,6.0,40.0,127.0,94.0,Liver Disease
+841,Amit Mishra,90.0,55.0,160.0,137.0,Anemia
+842,Sanjay Nair,64.0,76.0,152.0,107.0,Asthma
+843,Bhavana Sharma,80.0,52.0,150.0,143.0,Liver Disease
+844,Bhavana Nath,79.0,65.0,141.0,91.0,Dengue
+845,Kiran Gupta,78.0,50.0,160.0,94.0,Cardiovascular Disease
+846,Rajesh Desai,24.0,63.0,171.0,121.0,Cardiovascular Disease
+847,Meena Sharma,22.0,50.0,177.0,148.0,Respiratory Infection
+848,Preeti Verma,51.0,51.0,177.0,159.0,Kidney Disease
+849,Rakesh Nath,54.0,59.0,175.0,108.0,Liver Disease
+850,Preeti Yadav,44.0,84.0,153.0,93.0,Diabetes
+851,Neha Chatterjee,72.0,71.0,154.0,148.0,Hypertension
+852,Meena Chatterjee,1.0,18.0,119.0,128.0,Respiratory Infection
+853,Shankar Das,58.0,52.0,167.0,110.0,Anemia
+854,Abhinav Saxena,4.0,41.0,107.0,152.0,Asthma
+855,Lakshmi Chatterjee,7.0,33.0,123.0,109.0,Liver Disease
+856,Vikas Joshi,51.0,60.0,168.0,112.0,Malaria
+857,Kiran Bose,49.0,70.0,159.0,139.0,Malaria
+858,Deepak Sharma,22.0,76.0,162.0,119.0,Liver Disease
+859,Swati Iyer,20.0,82.0,153.0,106.0,Diabetes
+860,Rajesh Yadav,40.0,61.0,150.0,135.0,Respiratory Infection
+861,Ajay Malhotra,90.0,56.0,152.0,156.0,Anemia
+862,Sudha Pandey,19.0,56.0,168.0,117.0,Malaria
+863,Priya Aggarwal,30.0,74.0,166.0,151.0,Hypertension
+864,Santosh Iyer,14.0,50.0,136.0,92.0,Diabetes
+865,Santosh Singh,24.0,80.0,166.0,111.0,Dengue
+866,Rakesh Bose,16.0,51.0,145.0,138.0,Malaria
+867,Swati Verma,42.0,83.0,175.0,140.0,Cardiovascular Disease
+868,Ramesh Nath,60.0,83.0,166.0,140.0,Malaria
+869,Seema Verma,84.0,54.0,144.0,102.0,Liver Disease
+870,Abhinav Desai,31.0,79.0,159.0,152.0,Malaria
+871,Arjun Desai,66.0,51.0,146.0,142.0,Thyroid Disorder
+872,Lakshmi Menon,29.0,61.0,158.0,122.0,Cardiovascular Disease
+873,Manoj Banerjee,33.0,72.0,150.0,123.0,Tuberculosis
+874,Arun Chopra,24.0,62.0,166.0,124.0,Kidney Disease
+875,Rajesh Verma,20.0,63.0,168.0,95.0,Liver Disease
+876,Anjali Menon,9.0,44.0,103.0,133.0,Cardiovascular Disease
+877,Pooja Menon,85.0,54.0,143.0,127.0,Dengue
+878,Arjun Rana,15.0,45.0,153.0,147.0,Anemia
+879,Neha Saxena,59.0,82.0,179.0,103.0,Dengue
+880,Naveen Joshi,2.0,35.0,100.0,142.0,Asthma
+881,Arun Desai,60.0,83.0,156.0,111.0,Malaria
+882,Sunita Pillai,51.0,78.0,157.0,127.0,Diabetes
+883,Rakesh Yadav,10.0,32.0,109.0,145.0,Liver Disease
+884,Deepak Kumar,76.0,52.0,141.0,131.0,Dengue
+885,Manoj Kohli,84.0,63.0,161.0,92.0,Asthma
+886,Seema Pandey,44.0,52.0,176.0,135.0,Asthma
+887,Ravi Joshi,67.0,45.0,167.0,141.0,Asthma
+888,Deepak Rao,19.0,79.0,162.0,143.0,Asthma
+889,Kiran Saxena,43.0,74.0,165.0,92.0,Diabetes
+890,Sandeep Joshi,41.0,77.0,179.0,90.0,Diabetes
+891,Abhinav Saxena,3.0,28.0,136.0,135.0,Malaria
+892,Ajay Gupta,42.0,50.0,160.0,96.0,Diabetes
+893,Suman Pandey,31.0,71.0,179.0,131.0,Kidney Disease
+894,Sandeep Nath,77.0,56.0,158.0,113.0,Dengue
+895,Kavita Sharma,87.0,72.0,170.0,135.0,Cardiovascular Disease
+896,Ajay Saxena,56.0,76.0,160.0,94.0,Diabetes
+897,Sanjay Patel,76.0,70.0,161.0,150.0,Asthma
+898,Sudha Das,70.0,48.0,148.0,115.0,Cardiovascular Disease
+899,Indira Kulkarni,28.0,85.0,179.0,141.0,Malaria
+900,Geeta Mehta,25.0,60.0,168.0,132.0,Kidney Disease
+901,Ravi Pillai,58.0,74.0,175.0,104.0,Anemia
+902,Arun Kulkarni,15.0,69.0,160.0,147.0,Malaria
+903,Kavita Prasad,8.0,44.0,130.0,152.0,Hypertension
+904,Vikas Aggarwal,31.0,82.0,152.0,143.0,Malaria
+905,Ravi Desai,87.0,71.0,140.0,105.0,Tuberculosis
+906,Meena Pillai,26.0,73.0,171.0,96.0,Dengue
+907,Alok Saxena,8.0,27.0,129.0,103.0,Dengue
+908,Ravi Mishra,6.0,26.0,97.0,158.0,Anemia
+909,Naveen Banerjee,77.0,66.0,155.0,143.0,Dengue
+910,Preeti Prasad,53.0,71.0,161.0,121.0,Malaria
+911,Ajay Patel,21.0,69.0,153.0,96.0,Respiratory Infection
+912,Seema Chatterjee,52.0,56.0,152.0,90.0,Thyroid Disorder
+913,Neha Rao,58.0,60.0,150.0,103.0,Dengue
+914,Neha Desai,77.0,76.0,151.0,143.0,Thyroid Disorder
+915,Sandeep Aggarwal,37.0,71.0,179.0,115.0,Asthma
+916,Ajay Kohli,26.0,65.0,168.0,143.0,Asthma
+917,Nisha Gupta,12.0,26.0,107.0,127.0,Dengue
+918,Seema Bose,41.0,67.0,161.0,153.0,Anemia
+919,Rajesh Nair,3.0,29.0,129.0,134.0,Malaria
+920,Preeti Chatterjee,2.0,17.0,133.0,97.0,Hypertension
+921,Sudha Verma,16.0,64.0,147.0,101.0,Respiratory Infection
+922,Deepak Yadav,23.0,61.0,156.0,138.0,Hypertension
+923,Pooja Pillai,8.0,18.0,130.0,103.0,Thyroid Disorder
+924,Abhinav Kohli,22.0,64.0,166.0,130.0,Kidney Disease
+925,Vikas Gupta,45.0,55.0,151.0,101.0,Anemia
+926,Ajay Kohli,31.0,74.0,176.0,98.0,Hypertension
+927,Alok Sharma,8.0,44.0,92.0,100.0,Malaria
+928,Rakesh Kohli,4.0,42.0,109.0,153.0,Cardiovascular Disease
+929,Abhinav Menon,25.0,78.0,160.0,102.0,Diabetes
+930,Pooja Saxena,29.0,68.0,174.0,122.0,Diabetes
+931,Preeti Saxena,42.0,51.0,180.0,136.0,Malaria
+932,Preeti Sharma,20.0,72.0,161.0,144.0,Asthma
+933,Ravi Menon,4.0,33.0,131.0,120.0,Diabetes
+934,Alok Malhotra,56.0,67.0,157.0,122.0,Liver Disease
+935,Preeti Rao,59.0,65.0,170.0,131.0,Liver Disease
+936,Sandeep Kulkarni,78.0,57.0,167.0,147.0,Malaria
+937,Neha Rao,87.0,50.0,149.0,119.0,Cardiovascular Disease
+938,Ajay Chatterjee,78.0,59.0,145.0,90.0,Cardiovascular Disease
+939,Arun Bose,65.0,55.0,163.0,136.0,Malaria
+940,Indira Reddy,88.0,54.0,147.0,125.0,Cardiovascular Disease
+941,Shankar Sharma,30.0,60.0,166.0,127.0,Kidney Disease
+942,Indira Verma,45.0,55.0,173.0,109.0,Hypertension
+943,Nisha Aggarwal,20.0,82.0,157.0,132.0,Kidney Disease
+944,Rohit Verma,30.0,70.0,152.0,135.0,Kidney Disease
+945,Neha Aggarwal,48.0,51.0,157.0,128.0,Dengue
+946,Vikas Mishra,57.0,73.0,165.0,136.0,Liver Disease
+947,Kiran Banerjee,37.0,64.0,153.0,133.0,Kidney Disease
+948,Rohit Joshi,32.0,52.0,168.0,108.0,Tuberculosis
+949,Preeti Reddy,1.0,17.0,132.0,147.0,Asthma
+950,Vikas Banerjee,52.0,55.0,164.0,96.0,Diabetes
+951,Sandeep Verma,26.0,59.0,180.0,116.0,Hypertension
+952,Sunita Menon,38.0,69.0,167.0,142.0,Liver Disease
+953,Arjun Kohli,12.0,18.0,135.0,117.0,Dengue
+954,Rakesh Desai,3.0,30.0,123.0,110.0,Malaria
+955,Arjun Nair,76.0,45.0,161.0,138.0,Asthma
+956,Kiran Iyer,5.0,39.0,109.0,143.0,Thyroid Disorder
+957,Neha Reddy,88.0,58.0,154.0,92.0,Hypertension
+958,Lakshmi Yadav,58.0,59.0,154.0,110.0,Liver Disease
+959,Anjali Mishra,46.0,73.0,151.0,147.0,Malaria
+960,Neha Kulkarni,69.0,61.0,163.0,91.0,Liver Disease
+961,Sudha Reddy,68.0,79.0,152.0,97.0,Hypertension
+962,Sandeep Mishra,70.0,73.0,165.0,145.0,Asthma
+963,Suman Das,61.0,75.0,161.0,132.0,Liver Disease
+964,Alok Singh,56.0,62.0,176.0,128.0,Diabetes
+965,Anita Nair,33.0,68.0,158.0,158.0,Cardiovascular Disease
+966,Manoj Yadav,82.0,60.0,143.0,134.0,Diabetes
+967,Kavita Mishra,81.0,76.0,151.0,118.0,Tuberculosis
+968,Abhinav Mishra,32.0,52.0,171.0,145.0,Malaria
+969,Alok Nair,88.0,75.0,147.0,118.0,Tuberculosis
+970,Bhavana Pillai,58.0,75.0,150.0,104.0,Liver Disease
+971,Indira Singh,75.0,75.0,160.0,137.0,Liver Disease
+972,Rohit Patel,60.0,54.0,150.0,95.0,Dengue
+973,Kavita Das,22.0,71.0,151.0,103.0,Tuberculosis
+974,Meena Kulkarni,73.0,76.0,169.0,99.0,Thyroid Disorder
+975,Ramesh Iyer,5.0,17.0,111.0,150.0,Kidney Disease
+976,Vijay Desai,53.0,62.0,174.0,100.0,Diabetes
+977,Neha Pillai,59.0,72.0,160.0,141.0,Cardiovascular Disease
+978,Sunita Rao,16.0,65.0,168.0,149.0,Kidney Disease
+979,Kavita Nath,8.0,30.0,99.0,125.0,Liver Disease
+980,Ajay Malhotra,53.0,73.0,157.0,129.0,Tuberculosis
+981,Vijay Chopra,84.0,63.0,160.0,150.0,Liver Disease
+982,Indira Verma,7.0,32.0,120.0,156.0,Diabetes
+983,Indira Malhotra,4.0,17.0,95.0,137.0,Thyroid Disorder
+984,Kiran Menon,72.0,74.0,149.0,107.0,Hypertension
+985,Meena Pillai,7.0,32.0,105.0,150.0,Liver Disease
+986,Amit Nair,16.0,43.0,133.0,113.0,Diabetes
+987,Deepak Nair,29.0,80.0,155.0,115.0,Hypertension
+988,Alok Malhotra,32.0,53.0,169.0,121.0,Cardiovascular Disease
+989,Rajesh Gupta,40.0,66.0,173.0,144.0,Anemia
+990,Ramesh Aggarwal,8.0,38.0,92.0,133.0,Cardiovascular Disease
+991,Sandeep Aggarwal,16.0,49.0,130.0,160.0,Hypertension
+992,Ramesh Das,89.0,46.0,156.0,109.0,Hypertension
+993,Suman Menon,19.0,79.0,171.0,135.0,Kidney Disease
+994,Arjun Nath,82.0,58.0,155.0,116.0,Tuberculosis
+995,Priya Das,80.0,73.0,159.0,110.0,Malaria
+996,Swati Kohli,63.0,48.0,164.0,111.0,Liver Disease
+997,Abhinav Sharma,20.0,74.0,158.0,104.0,Hypertension
+998,Sudha Reddy,9.0,23.0,95.0,126.0,Dengue
+999,Preeti Kohli,87.0,53.0,150.0,115.0,Tuberculosis
