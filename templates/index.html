@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap">
+    <title>AI-Powered Health Analysis</title>
+    <style>
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Montserrat', sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f9fafb;
+        }
+
+        .container {
+            text-align: center;
+            padding: 20px;
+            max-width: 600px;
+            background: #ffffff;
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        .title {
+            font-size: 28px;
+            font-weight: bold;
+            color: #1a202c;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 16px;
+            color: #4a5568;
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+
+        .form-control {
+            padding: 10px;
+            border: 1px solid #e2e8f0;
+            border-radius: 5px;
+            font-size: 14px;
+            color: #4a5568;
+            background-color: #f7fafc;
+        }
+
+        .form-control::placeholder {
+            color: #a0aec0;
+        }
+
+        .analyze-button {
+            margin-top: 20px;
+            padding: 12px 0;
+            width: 100%;
+            font-size: 16px;
+            font-weight: bold;
+            color: #ffffff;
+            background-color: #3182ce;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .analyze-button:hover {
+            background-color: #2b6cb0;
+        }
+
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #2d3748;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="title">AI-Powered Health Analysis</div>
+        <div class="subtitle">Get instant health insights using our advanced AI diagnosis tool. Enter your metrics below for a comprehensive analysis.</div>
+        <form action="{{url_for('predict')}}" method="post">
+        <div class="form-group">
+            <input type="number" id="age" name = 'age'class="form-control" placeholder="Enter age" />
+            <input type="number" id="weight" name = 'weight' class="form-control" placeholder="Enter weight (kg)" />
+            <input type="number" id="height" name = 'height' class="form-control" placeholder="Enter height (cm)" />
+            <input type="NUMBER" id="bloodPressure" name = 'blood_pressure' class="form-control" placeholder="Enter blood preasure (bpm)" />
+        </div>
+
+        <button id="analyzeButton" class="analyze-button">Analyze</button>
+        </form>
+        <div id="result" class="result">{{text}}</div>
+    </div>
+
+    <script>
+        document.getElementById("analyzeButton").addEventListener("click", function(e) {
+            e.preventDefault();
+
+            const age = document.getElementById("age").value;
+            const weight = document.getElementById("weight").value;
+            const height = document.getElementById("height").value;
+            const bloodPressure = document.getElementById("bloodPressure").value;
+
+            fetch("http://localhost:5000/analyze", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ age, weight, height, blood_pressure: bloodPressure })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("result").innerText = "Diagnosis: " + data.disease_type;
+            })
+            .catch(error => {
+                console.error("Error:", error);
+                document.getElementById("result").innerText = "Error analyzing data. Please try again.";
+            });
+        });
+    </script>
+
+</body>
+</html>
